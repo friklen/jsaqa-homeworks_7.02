@@ -16,8 +16,9 @@
   },
   "homepage": "https://github.com/friklen/jsaqa-homeworks_7.02#readme",
   "description": ""
-
-
+}
+ "devDependencies": {
+    "eslint": "^3.0.10"
 }
 
 
